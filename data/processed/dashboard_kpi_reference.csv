@@ -1,0 +1,5 @@
+﻿Metric,Dashboard simple average across 18 activities,Official source Total row,Note
+Online Selling %,33.5,33.5,Dashboard simple average matches source Total row.
+Online Purchasing %,50.6,47.6,Dashboard uses simple unweighted mean across activities; source Total is different.
+Cloud Computing %,57.5,51.3,Dashboard uses simple unweighted mean across activities; source Total is different.
+Avg IoT Usage %,49.6,N/A,Dashboard simple mean across 72 activity-purpose observations.
