@@ -1,0 +1,8 @@
+# Temporary/system files
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+
+# Optional: uncomment if you decide NOT to publish the PBIX
+# *.pbix
